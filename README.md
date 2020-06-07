@@ -19,19 +19,16 @@ For Example:</br>
 USERS < ==== > AGS Safe Servers < ==== > Your Server
 
 </br>
-### Setup For FiveM - open your server.cfg and add this</br>
+### Setup For FiveM - open ags.cfg </br>
 ### replace xx.xx.xx.xx To Your  IP from AGS Anti DDoS.</br>
-endpoint_add_tcp "0.0.0.0:30120"</br>
-endpoint_add_udp "0.0.0.0:30120"</br>
-sv_listingIPOverride "xx.xx.xx.xx"</br>
-sets AGS "Anti DDoS"</br>
 
 ### Do not forget to delete these from the original server.cfg file
 endpoint_add_tcp "0.0.0.0:30120"</br>
 endpoint_add_udp "0.0.0.0:30120"</br>
 
 ### and start the resource
-ensure AGS-AntiDDoS
+ensure AGS-AntiDDoS</br>
+exec resources/AGS-AntiDDoS/ags.cfg
 </br>
 
 #  Do not change anything,
