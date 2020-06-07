@@ -8,7 +8,8 @@ Protect servers from denial of service attacks.
 
 # By AGS Team
 
-ArabGS.com
+https://ArabGS.com
+
 </br>
 
 # How it works ?
