@@ -30,6 +30,10 @@ sets AGS "Anti DDoS"</br>
 endpoint_add_tcp "0.0.0.0:30120"</br>
 endpoint_add_udp "0.0.0.0:30120"</br>
 
+### and start the resource
+ensure AGS-AntiDDoS
+</br>
+
 #  Do not change anything,
 # If you change the information, the service will be stopped .</br>
 </br>
