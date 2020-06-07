@@ -13,7 +13,7 @@ https://ArabGS.com
 </br>
 
 # How it works ?
-
+It's a complex protection, that isn't easy to explain here, however,</br>
 The AGS Team will replace your IP address with the IP address of the Safe AGS Network.</br>
 For Example:</br>
 USERS < ==== > AGS Safe Servers < ==== > Your Server
