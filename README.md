@@ -16,7 +16,7 @@ https://ArabGS.com
 
 The AGS Team will replace your IP address with the IP address of the Safe AGS Network.</br>
 For Example:</br>
-USERS < ==== > AGS Safe Server < ==== > Your Server
+USERS < ==== > AGS Safe Servers < ==== > Your Server
 
 </br>
 # Setup For FiveM - open your server.cfg and add this</br>
