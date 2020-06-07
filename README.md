@@ -26,6 +26,10 @@ endpoint_add_udp "0.0.0.0:30120"</br>
 sv_listingIPOverride "xx.xx.xx.xx"</br>
 sets AGS "Anti DDoS"</br>
 
+### Do not forget to delete these from the original server.cfg file
+endpoint_add_tcp "0.0.0.0:30120"</br>
+endpoint_add_udp "0.0.0.0:30120"</br>
+
 # ^^^ Do not change anything,
 # If you change the information, the service will be stopped .</br>
 </br>
