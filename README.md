@@ -20,7 +20,7 @@ USERS < ==== > AGS Safe Servers < ==== > Your Server
 
 </br>
 ### Setup For FiveM - open your server.cfg and add this</br>
-# replace xx.xx.xx.xx To Your  IP from AGS Anti DDoS</br>
+### replace xx.xx.xx.xx To Your  IP from AGS Anti DDoS.</br>
 endpoint_add_tcp "0.0.0.0:30120"</br>
 endpoint_add_udp "0.0.0.0:30120"</br>
 sv_listingIPOverride "xx.xx.xx.xx"</br>
