@@ -25,16 +25,17 @@ endpoint_add_udp "0.0.0.0:30120"</br>
 sv_listingIPOverride "xx.xx.xx.xx"</br>
 sets AGS "Anti DDoS"</br>
 
-# How to buy the service?
-
-Visit: https://antiddos.arabgs.com
-</br>
 # ^^^ Do not change anything,
 # If you change the information, the service will be stopped .</br>
 </br>
  See: https://antiddos.arabgs.com/Terms-of-Use-and-Privacy-Policy.html
+ </br>
+# How to buy the service?
 
+Visit: https://antiddos.arabgs.com
 </br>
+
+
 # Email
 
 admin@arangs.com
