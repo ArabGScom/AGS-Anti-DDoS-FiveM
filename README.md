@@ -31,7 +31,7 @@ USERS < ==== > Safe AGS Servers < ==== > Your Server
 endpoint_add_tcp "0.0.0.0:30120"</br>
 endpoint_add_udp "0.0.0.0:30120"</br>
 
-### and start the resource
+### add this lines and start the resources
 ensure AGS-AntiDDoS</br>
 exec resources/AGS-AntiDDoS/ags.cfg
 </br>
@@ -52,4 +52,4 @@ Visit: https://antiddos.arabgs.com
 
 admin@arabgs.com
 </br>
-2017.
+AGS &copy; 2017.
