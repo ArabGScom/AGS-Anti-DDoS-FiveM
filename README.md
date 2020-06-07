@@ -50,6 +50,6 @@ Visit: https://antiddos.arabgs.com
 
 # Email
 
-admin@arangs.com
+admin@arabgs.com
 </br>
 2017.
