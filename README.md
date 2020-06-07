@@ -3,7 +3,7 @@
 
 # What is AGS Anti DDoS For FiveM ?
 
-Protect servers from denial of service attacks.
+Protect servers from distributed denial of service attacks.
 
 
 
