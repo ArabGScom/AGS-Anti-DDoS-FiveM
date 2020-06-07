@@ -30,7 +30,7 @@ sets AGS "Anti DDoS"</br>
 endpoint_add_tcp "0.0.0.0:30120"</br>
 endpoint_add_udp "0.0.0.0:30120"</br>
 
-# ^^^ Do not change anything,
+#  Do not change anything,
 # If you change the information, the service will be stopped .</br>
 </br>
  See: https://antiddos.arabgs.com/Terms-of-Use-and-Privacy-Policy.html
