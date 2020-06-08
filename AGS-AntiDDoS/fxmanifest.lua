@@ -4,7 +4,7 @@ games {'gta5'}
 
 -- Resource stuff
 name 'AGS Anti DDoS'
-description 'Protect servers from denial of service attacks.'
+description 'Protect servers from Distributed Denial of Service "DDoS" attacks.'
 version 'v1.0'
 author 'AGS Team'
 url 'https://ArabGS.com'
