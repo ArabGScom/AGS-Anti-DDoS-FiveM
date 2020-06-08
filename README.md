@@ -12,9 +12,7 @@ Protect servers from Distributed Denial of Service "DDoS" attacks with AGS Anti 
 <br>
 
 
-# By AGS Team
 
-https://ArabGS.com
 
 </br>
 
@@ -46,6 +44,8 @@ exec resources/AGS-AntiDDoS/ags.cfg
 # How to buy the service?
 </br>
 Visit: https://antiddos.arabgs.com
+</br>
+By: https://ArabGS.com
 </br>
 
 
