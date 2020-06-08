@@ -2,8 +2,8 @@
 </br>
 
 # What is AGS Anti DDoS For FiveM ?
-
-Protect servers from Distributed Denial of Service "DDoS" attacks.
+script .lua file
+Protect servers from Distributed Denial of Service "DDoS" attacks with AGS Anti DDoS.
 
 
 
