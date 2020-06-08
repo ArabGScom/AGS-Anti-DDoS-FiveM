@@ -1,4 +1,4 @@
-<center><img src="https://avatars0.githubusercontent.com/u/66540674?s=460&u=7c71cbee5861cefa44b5fafa21aa6825796cc7ee&v=4"></center>
+<center><img src="https://avatars0.githubusercontent.com/u/66540674?s=460&u=7c71cbee5861cefa44b5fafa21aa6825796cc7ee&v=4"  width="50" height="50"></center>
 <img src="https://antiddos.arabgs.com/images/ags-antiddos.png">
 </br>
 
