@@ -45,7 +45,7 @@ exec resources/AGS-AntiDDoS/ags.cfg
 </br>
 Visit: https://antiddos.arabgs.com
 </br>
-By: https://ArabGS.com
+By: Omar , https://ArabGS.com
 </br>
 
 
