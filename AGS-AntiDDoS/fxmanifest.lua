@@ -6,7 +6,7 @@ games {'gta5'}
 name 'AGS Anti DDoS'
 description 'Protect servers from Distributed Denial of Service "DDoS" attacks.'
 version 'v1.0'
-author 'AGS Team'
+author 'OmaR'
 url 'https://ArabGS.com'
 
 -- Do not change anything,
