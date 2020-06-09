@@ -18,7 +18,7 @@ Protect servers from Distributed Denial of Service "DDoS" attacks with AGS Anti 
 
 # How it works ?
 It's a complex protection, that isn't easy to explain here, however,</br>
-The AGS Team will replace your IP address with the IP address of the Safe AGS Network.</br>
+AGS Service will replace your IP address with the IP address of the Safe AGS Network.</br>
 For Example:</br>
 USERS < ==== > Safe AGS Servers < ==== > Your Server
 
