@@ -16,13 +16,14 @@ Protect servers from Distributed Denial of Service "DDoS" attacks with AGS Anti 
 
 </br>
 
-# How it works ?
+# How AGS Anti DDoS works ?
 It's a complex protection, that isn't easy to explain here, however,</br>
 AGS Service will replace your IP address with the IP address of the Safe AGS Network.</br>
 For Example:</br>
 USERS < ==== > Safe AGS Servers < ==== > Your Server
 
 </br>
+#install
 ### Setup For FiveM - open ags.cfg </br>
 ### replace xx.xx.xx.xx To Your  IP from AGS Anti DDoS.</br>
 
